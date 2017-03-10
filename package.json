@@ -1,0 +1,15 @@
+{
+  "name": "phelpser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+      "phelpser": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fetchutils": "^0.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "jsdom": "^9.11.0"
+  }
+}
