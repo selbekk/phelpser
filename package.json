@@ -1,9 +1,9 @@
 {
   "name": "phelpser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
-      "phelpser": "index.js"
+    "phelpser": "index.js"
   },
   "license": "MIT",
   "repository": "selbekk/phelpser",
